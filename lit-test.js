@@ -1,3 +1,4 @@
+import 'babel-polyfill';
 import {LitElement, html} from '@polymer/lit-element';
 
 class LitTest extends LitElement {
